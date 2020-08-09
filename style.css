@@ -1,0 +1,30 @@
+.container {
+    margin-top: auto;
+}
+body{
+    color: #73879C;
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif!important;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471;
+    background-color: #E4F7F7!important;
+}
+.heading-color{
+    background-color: #2A3F54;
+    margin-bottom: 30px;
+}
+.bg-primary-custom {
+    background-color: #8998E6!important;
+}
+.bg-success-custom{
+    background-color: #1ABB9C!important;
+}
+.custom-card-background{
+    background-color: #B0DCE5!important;
+}
+
+
+
+
+
+}
